@@ -43,7 +43,7 @@ Dev Tools:
 ## Setup
 
 Deployed with netlify the React API webapp is hosted here:
-https://clever-joliot-1b11e8.netlify.app/
+https://sei50p2-serverlessfunctions-97906e.netlify.app/
 
 `yarn start` run the development server
 
