@@ -56,7 +56,7 @@ https://sei50p2-serverlessfunctions-97906e.netlify.app/
 A front end axios request to the Netlify serverless function, event handler.  Page number passed as a parameter.
 ```js
 export const getPlantsEdible = (pageNum) => {
-  return axios.get('https://inspiring-bhabha-97906e.netlify.app/.netlify/functions/apiGetPlantsEdible', { params: { pageNum: pageNum } })
+  return axios.get('https://sei50p2-serverlessfunctions-97906e.netlify.app/.netlify/functions/apiGetPlantsEdible', { params: { pageNum: pageNum } })
 }
 ```
 
