@@ -1,0 +1,25 @@
+@import '~bulma/sass/utilities/initial-variables';
+@import url('https://fonts.googleapis.com/css2?family=Cabin&display=swap');
+
+$green: #9eb691;
+$primary: $green;
+$body-family: 'Cabin', sans-serif;
+//import variables and set variables before importing bulma.sass
+@import '~bulma/bulma.sass';
+
+.flower-array {
+  width: 80%
+}
+
+.navbar {
+  height: 60px;
+}
+
+a.navbar-item:focus, a.navbar-item:focus-within {
+  background-color: $primary;
+}
+
+.search-form {
+  width: 40%;
+  margin: 10px auto;
+}

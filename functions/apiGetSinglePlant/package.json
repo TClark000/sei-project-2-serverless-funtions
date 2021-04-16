@@ -1,0 +1,12 @@
+{
+  "name": "apiGetSinglePlant",
+  "version": "1.0.0",
+  "description": "Netlify Dev + Serverless Functions + trefle api",
+  "main": "apiGetSinglePlant.js",
+  "author": "Teresa Clark",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
