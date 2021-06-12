@@ -13,6 +13,10 @@ const Header = () => {
           <h2 className="subtitle">
             Some are edible, search for your favourites!
           </h2>
+          <h2 className="subtitle has-text-black has-background-grey-light">
+            The Trefle API is no longer available online, May 2021:
+            <a href="https://twitter.com/trefle_api?lang=en"> trefle_api</a>
+          </h2>
         </div>
       </div>
       <Navbar />

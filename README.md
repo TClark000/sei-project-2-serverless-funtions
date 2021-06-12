@@ -5,6 +5,8 @@ The goal here was to remove the CORS challenge required in the original app.  Ch
 
 In this project Netlify serverless functions utilise node-fetch to request the trefle api and a Cross-Origin Resource Sharing (CORS)  header is not required.
 
+<span style="color: red;">The Trefle API is no longer available online, May 2021: [trefle_api](https://twitter.com/trefle_api?lang=en)</span>
+
 ## Table of contents
 * [General Info](#general-info)
 * [Technologies](#technologies)
